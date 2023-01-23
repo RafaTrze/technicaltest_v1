@@ -1,0 +1,16 @@
+{
+  "name": "technicaltest_v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.3.3",
+    "fs": "^0.0.1-security",
+    "sqlite3": "^5.1.4"
+  }
+}
